@@ -1,0 +1,21 @@
+{
+    "version": 3,
+    "mappings": "AOAA,AAAA,WAAW,CAAA;EACP,gBAAgB,EAAE,MAAM;CAC3B",
+    "sources": [
+        "main.scss",
+        "abstracts/_functions.scss",
+        "abstracts/_variables.scss",
+        "base/_reset.scss",
+        "base/_typography.scss",
+        "components/_buttons.scss",
+        "components/_pagination.scss",
+        "layout/_grid.scss",
+        "layout/_navigation.scss",
+        "pages/_conctact.scss",
+        "pages/_home.scss",
+        "themes/_admin.scss",
+        "themes/_theme.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
